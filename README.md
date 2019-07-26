@@ -1,0 +1,2 @@
+# auto-fetch-test
+test
